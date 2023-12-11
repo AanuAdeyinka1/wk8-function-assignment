@@ -4,7 +4,7 @@
 // I created a function to check prime number
 // if the the number is divide and equals to 1, then it is not a prime number and it should return false;
 // if the number equals 2, then it should return true which means that the number equals 2.
-//  I created a for loop and set the value of my num parameter to 40 in the console
+//  I created a for loop and set the value of my num parameter to 7 in the console
 function checkPrimeNumber(num) {
   if (num == 1) {
     return false;
